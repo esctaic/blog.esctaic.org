@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>http://blog.esctaic.org/categories/blog.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/categories/cat_nikola.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/categories/demo.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/categories/nikola.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/categories/python.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/galleries/demo/rss.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/galleries/rss.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/rss.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://blog.esctaic.org/sitemap.xml</loc>
+  <lastmod>2015-06-30</lastmod>
+ </sitemap>
+</sitemapindex>
